@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    hyperloglog-redis (2.0.0)
+      murmurhash3 (~> 0.1.3)
+      redis (~> 3.0.1)
+    mmh3 (1.0.0)
+    murmurhash3 (0.1.6)
+    redis (3.0.7)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  hyperloglog-redis
+  mmh3
+  murmurhash3
+  redis
+
+BUNDLED WITH
+   2.1.4
