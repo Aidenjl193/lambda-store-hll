@@ -1,2 +1,2 @@
-# lambda-store-redis-rb-hyperloglog
+# lambda-store-hyperloglog
 A library to add hyperloglog functionality to lambda store in ruby
